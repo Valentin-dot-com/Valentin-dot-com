@@ -1,6 +1,4 @@
-# Hello!
-
-- 👋 I’m @Valentin-dot-com
+# 👋Hello! I’m @Valentin-dot-com
 - 🌱 I’m currently learning Front End Development at Medieinstitutet, in Sweden 
 - 👀 I’m interested in tech, games and a few sports!
 - 💞️ I’m looking to collaborate on ...
